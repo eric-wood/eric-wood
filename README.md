@@ -1,9 +1,11 @@
 # Welcome to my Github!
 
-Please make yourselves at home and take a look around if you're curious. Most of this is just abandoned experiments, so don't take it too seriously, but I'm sure there's some good code buried in here somewhere...
+I like to build things with my computer.
 
-## About me
+My interests are primarily things that people interact with, especially as they pertain to music.
 
-I really like making things with computers, especially anything music-adjacent. My day job revolves around web development, but I fiddle around with much more than that! Lately I have been working on building guitar pedals and teaching myself PCB design as well as embedded Rust (look for that over [here](https://github.com/heuristic-industries)).
+You can learn more about me on my website: [ericwood.org](https://ericwood.org)
 
-Want to know more? I have a website! [ericwood.org](https://ericwood.org)
+There is also my fledgling music electronics company, [Heuristic Industries](https://heuristic.industries) of which you will find many repos in here.
+
+Thank you for viewing my profile.
